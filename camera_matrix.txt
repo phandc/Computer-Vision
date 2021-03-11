@@ -1,0 +1,7 @@
+Reprojection error = 1.652
+Intrinsic camera matrix = 
+[1191.7427, 0, 699.5;
+ 0, 1191.7427, 539.5;
+ 0, 0, 1]
+Distortion coefficient = 
+[-0.231318, 0.0829419, 0, 0, 0]
